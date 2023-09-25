@@ -1,0 +1,22 @@
+{
+  "name": "com.playfab.playfabsdk",
+  "version": "2.176.0",
+  "displayName": "Playfab SDK",
+  "description": "Playfab SDK ",
+  "unity": "2021.3",
+  "unityRelease": "4f1",
+  "documentationUrl": "https://api.playfab.com/documentation/client",
+  "changelogUrl": "https://github.com/PlayFab/UnitySDK/releases",
+  "licensesUrl": "https://github.com/PlayFab/UnitySDK/blob/master/LICENSE",
+  "dependencies": {    
+ },
+ "keywords": [
+    "analytics",
+    "playfab"
+  ],
+  "author": {
+    "name": "Playfab",
+    "email": "info@playfab.com",
+    "url": "https://playfab.com/"
+  }
+}
